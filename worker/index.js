@@ -72,6 +72,7 @@ class LinksTransformer {
 class SocialTransformer {
   constructor() {
     this.socials = [
+      { url: "https://github.com/rajatrai101", icon: "https://simpleicons.org/icons/github.svg" },
       { url: "https://linkedin.com/in/rajat-rai-519a3810b/", icon: "https://simpleicons.org/icons/linkedin.svg" },
       { url: "mailto:rajatrai@ufl.edu", icon: "https://simpleicons.org/icons/gmail.svg" },
       { url: "https://github.com/rajatraiuf", icon: "https://simpleicons.org/icons/github.svg" }
