@@ -55,7 +55,7 @@ async function handleHTMLResponse(request, page) {
   });
 }
 
-//Social Links transformer
+//Links transformer
 class LinksTransformer {
   constructor(links) {
     this.links = links;
