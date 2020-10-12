@@ -68,7 +68,7 @@ class LinksTransformer {
   }
 }
 
-//Social Links transformer
+//Links transformer
 class SocialTransformer {
   constructor() {
     this.socials = [
